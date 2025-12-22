@@ -92,7 +92,7 @@
     "redux-thunk": "2.4.1",
     "regression": "^2.0.1",
     "reselect": "4.0.0",
-    "sass": "^1.53.0",
+    "sass": "^1.94.2",
     "screenfull": "5.0.2",
     "seedrandom": "3.0.1",
     "tippy.js": "3.4.1",
